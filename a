@@ -1,0 +1,31 @@
+[33mcommit 5d9409e288e3e6359b83664f83b096fbf40d55e5[m[33m ([m[1;36mHEAD -> [m[1;32mNewBranch[m[33m, [m[1;32mmain[m[33m)[m
+Author: awaness <rasl.feet@mail.ru>
+Date:   Fri Mar 3 19:34:33 2023 +0300
+
+    add .gitignore
+
+[33mcommit a77b065de6d3c9e47e9718d9fc19b027c2c9305d[m
+Author: awaness <rasl.feet@mail.ru>
+Date:   Thu Mar 2 20:00:30 2023 +0300
+
+    Revert "Настроенный проект"
+    
+    This reverts commit 3b1a5d765e873bbbcfb999c83334cb15a736cacd.
+
+[33mcommit 3b1a5d765e873bbbcfb999c83334cb15a736cacd[m
+Author: awaness <rasl.feet@mail.ru>
+Date:   Thu Mar 2 19:55:13 2023 +0300
+
+    Настроенный проект
+
+[33mcommit 36d684ecc299f16d3db37ba7bbc367624fb1b1c4[m
+Author: awaness <rasl.feet@mail.ru>
+Date:   Thu Mar 2 19:43:05 2023 +0300
+
+    Настроенный проект
+
+[33mcommit 6e06442979dbbda564ce33927205233b67ac3740[m[33m ([m[1;31mNewBranch/main[m[33m)[m
+Author: gamechunk <gamechunkltd@gmail.com>
+Date:   Tue Feb 28 22:43:47 2023 +0300
+
+    Initial commit
